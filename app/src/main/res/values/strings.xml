@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="str_exit">EXIT</string>
+    <string name="str_start">START</string>
+    <string name="str_mode">MODE</string>
+    <string name="str_help"> </string>
+    <string name="str_settings">settings</string>
+    <string name="str_restart">RESTART</string>
+</resources>

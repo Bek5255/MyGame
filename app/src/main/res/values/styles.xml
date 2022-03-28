@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_style">
+        <item name="android:background">@drawable/my_btn</item>
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="btn_style.one">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+
+    <style name="btn_style.game">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+
+    <style name="linear">
+        <item name="android:background">@drawable/my_btn</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14pt</item>
+        <item name="android:fontFamily">@font/crillee_extra_bold_italic_plain</item>
+    </style>
+
+
+</resources>
